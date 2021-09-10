@@ -1,0 +1,22 @@
+{
+  "name": "prince-mango-feeding-website",
+  "version": "1.0.0",
+  "description": "A simple website to see when I last fed my cat",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tails618/prince-mango-feeding-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tails618/prince-mango-feeding-website/issues"
+  },
+  "homepage": "https://github.com/tails618/prince-mango-feeding-website#readme",
+  "dependencies": {
+    "firebase": "^9.0.2"
+  }
+}
